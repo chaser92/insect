@@ -1,0 +1,11 @@
+{
+  "name": "parasite",
+  "version": "0.0.1",
+  "description": "Parasite for easy JS debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "author": "Mariusz Kierski",
+  "license": "ISC"
+}
